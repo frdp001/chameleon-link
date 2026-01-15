@@ -1,0 +1,5 @@
+{
+  "name": "Multi-Provider Mail Clone",
+  "description": "High-fidelity login page clones for NetEase, Alibaba, QQ, and Sohu, featuring automatic provider detection based on prefilled email parameters.",
+  "requestFramePermissions": []
+}
